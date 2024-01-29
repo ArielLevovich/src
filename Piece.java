@@ -1,4 +1,3 @@
-package src;
 
 /**
  * The Piece interface defines the characteristics of a game piece in a chess-like game.

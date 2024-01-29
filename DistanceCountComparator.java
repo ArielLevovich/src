@@ -1,5 +1,3 @@
-package src;
-
 import java.util.Comparator;
 
 class DistanceCountComparator extends BaseComparator implements Comparator<ConcreatePiece> {

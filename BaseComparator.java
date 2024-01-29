@@ -1,5 +1,3 @@
-package src;
-
 public class BaseComparator {
     protected final boolean isDefenderWon; // true if defender won, false if attacker won.
     public BaseComparator(boolean isDefenderWon) {

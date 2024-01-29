@@ -1,4 +1,3 @@
-package src;
 
 public class Pawn extends ConcreatePiece {
     public Pawn(Player owner, int serialNumber, Position position)
